@@ -1,0 +1,11 @@
+# pip install streamlit
+# pip install google-generativeai
+# pip install pillow
+# pip install python-dotenv
+streamlit
+pillow
+python-dotenv
+google-generativeai
+gTTS
+# OR use the line below if you want Google Cloud TTS
+# google-cloud-texttospeech
